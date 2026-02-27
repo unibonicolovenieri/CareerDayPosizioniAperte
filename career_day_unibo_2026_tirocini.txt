@@ -1,0 +1,1236 @@
+================================================================================
+  CAREER DAY - UNIVERSITÀ DI BOLOGNA 2026
+  Tirocini per Tesi - Ingegneria Informatica
+================================================================================
+  Ultimo aggiornamento: [DATA]
+  Legenda stato: [ ] Da verificare | [X] Verificato | [NO] Non pertinente
+================================================================================
+
+--------------------------------------------------------------------------------
+[001] Accenture
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/504292
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[002] ADHR GROUP - Agenzia per il Lavoro S.p.a.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/804
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[003] Aetna Group S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/28
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[004] Agrintesa Soc. Coop. Agricola
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/921
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[005] Akkodis
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/744
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[006] Akronos Technologies
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2621
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[007] Alfasigma
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1722
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[008] Allianz SpA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/745
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[009] ALLSIDES
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2642
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[010] Alpitronic
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1963
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[011] ALSTOM
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503786
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[012] Altea Federation
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/383
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[013] ALTEN ITALIA SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503942
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[014] Areajob Spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2601
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[015] auxiell group
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1184
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[016] AYES
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2141
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[017] BCUBE
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/101
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[018] BDO Italia S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/502788
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[019] BECKHOFF AUTOMATION
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/499917
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[020] Benu Farmacia
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2721
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[021] BERCO
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/362
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[022] BERLUTI
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/406
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[023] Bios Management Italia Srl
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2101
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[024] BolognaFiere Group
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/941
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[025] Bonfiglioli S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/501097
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[026] BPER BANCA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/122
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[027] Bureau Veritas Italia
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1781
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[028] BV TECH
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2722
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[029] CAMPLUS
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2245
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[030] Cantiere del Pardo SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1185
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[031] Carraro
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2182
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[032] Caterpillar
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2701
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[033] Cattaneo Zanetto Pomposo & Co.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1186
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[034] Cefla
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/24
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[035] CEL Components
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2742
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[036] Centro di Sperimentazione Laimburg
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2643
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[037] CENTRO SOFTWARE SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1187
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[038] CFT
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1762
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[039] CHIESI FARMACEUTICI
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/498348
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[040] CHIRON ENERGY
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2202
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[041] CIMBRIA SRL
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1224
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[042] CINECA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503909
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[043] Clauger-Technofrigo S.r.l
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1242
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[044] CLEMENTONI
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1349
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[045] COCCHI TECHNOLOGIES
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/500320
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[046] Coesia Spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503836
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[047] COMECER SpA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/501174
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[048] Conserve Italia
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1201
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[049] Coop Alleanza 3.0
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/281
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[050] Coopservice S.Coop.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/499140
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[051] COSWELL SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/499042
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[052] Credem
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/403
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[053] Crédit Agricole Italia S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2021
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[054] Crif S.p.A
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503831
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[055] DATALOGIC
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503083
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[056] Davines Group
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2102
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[057] DECATHLON
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/501194
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[058] DELOITTE
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/501263
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[059] d-fine s.r.l.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1724
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[060] Dometic
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2644
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[061] Ducati
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/498881
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[062] ECO CERTIFICAZIONI SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1189
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[063] Edison
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1862
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[064] Eli Lilly
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/421
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[065] ENGIE
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2646
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[066] EPSOL SRL
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2648
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[067] EssilorLuxottica
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/502147
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[068] Essity Italy
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2649
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[069] Eurotec Srl
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2650
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[070] EY
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/498320
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[071] F.B. S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1191
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[072] Fileni
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2651
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[073] Focaccia Group Automotive
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1980
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[074] FOR S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2652
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[075] FORTNA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1284
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[076] Forvis Mazars Spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2105
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[077] Futur-A Group
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2126
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[078] Ghibson Italia S.r.l.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1404
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[079] Gi Group
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2361
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[080] Grant Thornton
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1767
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[081] Grundfos Water Treatment Italy Srl
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2653
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[082] Gruppo Amadori
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/615313
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[083] Gruppo BCC Iccrea
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1202
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[084] Gruppo Colorobbia
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1249
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[085] Gruppo Concorde Spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/499823
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[086] Gruppo Ferrovie dello Stato Italiane
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/499034
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[087] Gruppo Fini spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2654
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[088] GRUPPO GRANTERRE
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2244
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[089] Gruppo Hera
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/502354
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[090] Gruppo Tampieri
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2181
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[091] Gruppo Teddy S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/500569
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[092] Gruppo Trevi
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/30
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[093] Gruppo Zucchetti
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/41
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[094] Hitachi Energy
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2106
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[095] Horsa Spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/630293
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[096] HPE Group
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503839
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[097] ICONSULTING SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/606814
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[098] IEMA GROUP
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1743
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[099] IKOS Consulting Italia
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1784
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[100] Illumia
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/366
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[101] IMA SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/606374
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[102] ING. FERRARI S.P.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/502191
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[103] INRES SC
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2656
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[104] ITALIAN EXHIBITION GROUP SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1345
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[105] KPMG
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2582
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[106] Laboratori Guglielmo Marconi spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1441
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[107] Lafarmacia.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/861
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[108] Lavoropiù SpA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/606942
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[109] Lidl Italia
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/504777
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[110] Lincotek
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1802
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[111] LivaNova
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1764
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[112] Ludovico Martelli s.p.a.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2658
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[113] MAIRE S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2524
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[114] MAPEI SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1765
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[115] Marazzi Group S.r.l
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503960
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[116] Marchesini Group SpA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/498344
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[117] MARPOSS S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/608471
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[118] Marr
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/105
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[119] Mechinno srl
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/505822
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[120] MEC3 - OPTIMA SPA | GRUPPO CASA OPTIMA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1702
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[121] Moltiply Group Spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2659
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[122] Motor Power Company
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/504160
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[123] NEXIA AUDIREVI
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1344
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[124] Novomatic Italia S.p.a.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1982
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[125] NX Engineering Srl
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2161
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[126] Officine Maccaferri Spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1225
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[127] Openjobmetis S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2660
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[128] OPTIT
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/608377
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[129] OT Consulting
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/769
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[130] Philip Morris International
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503671
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[131] Pirola Pennuto Zei & Associati
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/664
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[132] Profilglass s.p.a.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/501261
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[133] PwC
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/500639
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[134] Randstad Italia Spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/608463
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[135] Raytec Vision SpA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2662
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[136] REKEEP SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/505674
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[137] Relatech
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2761
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[138] REPLY
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/499018
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[139] Rete servizi agricoltura
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2723
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[140] Revlon
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1341
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[141] Riccoboni Holding Spa
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2602
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[142] Risorse
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/303
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[143] Rothoblaas Srl
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1283
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[144] SACMI Imola S.C.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/606824
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[145] SAINT-GOBAIN ITALIA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2107
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[146] SCM Group
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/61
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[147] SCS Azioninnova
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/242
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[148] Segula Technologies
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1226
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[149] Sherwin-Williams Italy srl
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1261
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[150] SOLUX SRL
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2528
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[151] Stanzani SpA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1193
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[152] STEF
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1121
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[153] System Logistics
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/498485
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[154] TAS SPA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/803
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[155] Teach For Italy ETS
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1704
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[156] TECHINT COMPAGNIA TECNICA INTERNAZIONALE S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2663
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[157] Tennant Company
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2743
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[158] Tetra Pak
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/498472
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[159] Timac Agro Italia
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1194
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[160] TMC Italia
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2741
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[161] Toyota Material Handling
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/509015
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[162] Trenitalia Tper
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2664
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[163] Truzzi S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2665
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[164] Tyche Bank
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2530
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[165] UMANA
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/503878
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[166] UNICOOP FIRENZE
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2242
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[167] UniCredit
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/502865
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[168] Unigrà
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1541
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[169] Unimpiego Confindustria srl
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/615650
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[170] UNITEC S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/502215
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[171] Var Group
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2666
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[172] VINAVIL S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2667
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[173] Vislab Srl
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1770
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[174] Wienerberger S.p.A.
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/1403
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+--------------------------------------------------------------------------------
+[175] XTEL SRL
+  URL scheda: https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/2669
+  Stato: [ ]
+  Posizioni aperte (tirocinio/tesi):
+    -
+  Note:
+================================================================================
+  FINE DOCUMENTO - 175 aziende totali
+================================================================================
