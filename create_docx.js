@@ -1,7 +1,7 @@
 const {
-  Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType,
+  Document, Packer, Paragraph, TextRun, AlignmentType,
   BorderStyle, ShadingType, Table, TableRow, TableCell, WidthType,
-  LevelFormat
+  HeightRule
 } = require('docx');
 const fs = require('fs');
 
@@ -183,158 +183,106 @@ const aziende = [
   { n: "175", nome: "XTEL SRL", id: "2669" },
 ];
 
-const baseUrl = "https://eventi.unibo.it/careerday/aziende-partecipanti-2026/view/";
+// ── Layout constants ──────────────────────────────────────────────────────────
+const COLS       = 3;
+const pageWidth  = 11906;
+const marginLR   = 720;   // ~1.27 cm
+const marginTB   = 720;
+const usableW    = pageWidth - marginLR * 2;               // 10466 twips
+const colW       = Math.floor(usableW / COLS);             // ~3488 per column
+const ROW_HEIGHT = 780;   // twips – enough for a short handwritten note
 
-const cellBorder = { style: BorderStyle.SINGLE, size: 1, color: "CCCCCC" };
-const cellBorders = { top: cellBorder, bottom: cellBorder, left: cellBorder, right: cellBorder };
-const cellMargins = { top: 80, bottom: 80, left: 120, right: 120 };
+const outerBorder = { style: BorderStyle.SINGLE, size: 4,  color: "AAAAAA" };
+const outerBorders = { top: outerBorder, bottom: outerBorder, left: outerBorder, right: outerBorder };
 
-function labelCell(text, width) {
+const noBorder = { style: BorderStyle.NONE, size: 0, color: "FFFFFF" };
+const noBorders = { top: noBorder, bottom: noBorder, left: noBorder, right: noBorder };
+
+// ── Company cell ──────────────────────────────────────────────────────────────
+function companyCell(az) {
+  if (!az) {
+    // Filler cell (last incomplete row)
+    return new TableCell({
+      borders: noBorders,
+      width: { size: colW, type: WidthType.DXA },
+      children: [new Paragraph({ children: [new TextRun("")] })]
+    });
+  }
+
   return new TableCell({
-    borders: cellBorders,
-    width: { size: width, type: WidthType.DXA },
-    shading: { fill: "EAF2FB", type: ShadingType.CLEAR },
-    margins: cellMargins,
-    children: [new Paragraph({ children: [new TextRun({ text, bold: true, size: 20, font: "Arial" })] })]
-  });
-}
-
-function valueCell(text, width) {
-  return new TableCell({
-    borders: cellBorders,
-    width: { size: width, type: WidthType.DXA },
-    margins: cellMargins,
-    children: [new Paragraph({ children: [new TextRun({ text, size: 20, font: "Arial" })] })]
-  });
-}
-
-function emptyValueCell(width) {
-  return new TableCell({
-    borders: cellBorders,
-    width: { size: width, type: WidthType.DXA },
-    margins: { top: 200, bottom: 200, left: 120, right: 120 },
-    children: [new Paragraph({ children: [new TextRun({ text: "", size: 20 })] })]
-  });
-}
-
-function buildAziendaTable(az) {
-  const url = baseUrl + az.id;
-  const labelW = 2400;
-  const valueW = 6626;
-  const total = labelW + valueW;
-
-  return new Table({
-    width: { size: total, type: WidthType.DXA },
-    columnWidths: [labelW, valueW],
-    rows: [
-      // Header row: numero + nome azienda
-      new TableRow({
+    borders: outerBorders,
+    width:   { size: colW, type: WidthType.DXA },
+    margins: { top: 0, bottom: 0, left: 0, right: 0 },
+    children: [
+      // ─ Company name header ─
+      new Paragraph({
+        shading:  { fill: "DDDDDD", type: ShadingType.CLEAR },
+        spacing:  { before: 70, after: 70 },
+        indent:   { left: 110, right: 110 },
         children: [
-          new TableCell({
-            borders: cellBorders,
-            width: { size: total, type: WidthType.DXA },
-            columnSpan: 2,
-            shading: { fill: "1F3864", type: ShadingType.CLEAR },
-            margins: { top: 100, bottom: 100, left: 140, right: 140 },
-            children: [new Paragraph({
-              children: [
-                new TextRun({ text: `[${az.n}]  ${az.nome}`, bold: true, color: "FFFFFF", size: 22, font: "Arial" })
-              ]
-            })]
-          })
+          new TextRun({ text: `[${az.n}]  ${az.nome}`, bold: true, color: "222222", size: 17, font: "Arial" })
         ]
       }),
-      // URL
-      new TableRow({
-        children: [
-          labelCell("URL Scheda", labelW),
-          valueCell(url, valueW),
-        ]
-      }),
-      // Stato
-      new TableRow({
-        children: [
-          labelCell("Stato", labelW),
-          new TableCell({
-            borders: cellBorders,
-            width: { size: valueW, type: WidthType.DXA },
-            margins: cellMargins,
-            children: [new Paragraph({
-              children: [
-                new TextRun({ text: "[ ] Da verificare    [X] Verificato    [NO] Non pertinente", size: 20, font: "Arial" })
-              ]
-            })]
-          }),
-        ]
-      }),
-      // Posizioni
-      new TableRow({
-        children: [
-          labelCell("Posizioni aperte\n(tirocinio/tesi)", labelW),
-          emptyValueCell(valueW),
-        ]
-      }),
-      // Note
-      new TableRow({
-        children: [
-          labelCell("Note", labelW),
-          emptyValueCell(valueW),
-        ]
+      // ─ Blank notes area ─
+      new Paragraph({
+        spacing:  { before: 160, after: 160 },
+        indent:   { left: 110 },
+        children: [new TextRun({ text: "", size: 17 })]
       }),
     ]
   });
 }
 
-// Build document
-const children = [
-  // Title
-  new Paragraph({
-    alignment: AlignmentType.CENTER,
-    spacing: { after: 100 },
-    children: [new TextRun({ text: "CAREER DAY - UNIVERSITÀ DI BOLOGNA 2026", bold: true, size: 36, font: "Arial", color: "1F3864" })]
-  }),
-  new Paragraph({
-    alignment: AlignmentType.CENTER,
-    spacing: { after: 60 },
-    children: [new TextRun({ text: "Tirocini per Tesi — Ingegneria Informatica", size: 26, font: "Arial", color: "2E74B5" })]
-  }),
-  new Paragraph({
-    alignment: AlignmentType.CENTER,
-    spacing: { after: 40 },
-    children: [new TextRun({ text: `Totale aziende: 175  |  Ultimo aggiornamento: ___________`, size: 20, font: "Arial", color: "666666" })]
-  }),
-  new Paragraph({
-    alignment: AlignmentType.CENTER,
-    spacing: { after: 400 },
-    border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: "2E74B5", space: 1 } },
-    children: [new TextRun({ text: "Legenda stato:  [ ] Da verificare  |  [X] Verificato  |  [NO] Non pertinente", size: 18, font: "Arial", color: "888888" })]
-  }),
-];
+// ── Build grid rows ───────────────────────────────────────────────────────────
+const gridRows = [];
+for (let i = 0; i < aziende.length; i += COLS) {
+  const cells = [aziende[i] || null, aziende[i + 1] || null, aziende[i + 2] || null];
+  gridRows.push(
+    new TableRow({
+      height:   { value: ROW_HEIGHT, rule: HeightRule.ATLEAST },
+      children: cells.map(companyCell)
+    })
+  );
+}
 
-// Add each company table with spacing
-aziende.forEach((az, i) => {
-  children.push(buildAziendaTable(az));
-  children.push(new Paragraph({ spacing: { after: 240 }, children: [new TextRun("")] }));
+const gridTable = new Table({
+  width:        { size: usableW, type: WidthType.DXA },
+  columnWidths: [colW, colW, colW],
+  rows:         gridRows
 });
 
+// ── Document ──────────────────────────────────────────────────────────────────
 const doc = new Document({
-  styles: {
-    default: { document: { run: { font: "Arial", size: 20 } } }
-  },
+  styles: { default: { document: { run: { font: "Arial", size: 18 } } } },
   sections: [{
     properties: {
       page: {
-        size: { width: 11906, height: 16838 },
-        margin: { top: 1080, right: 900, bottom: 1080, left: 900 }
+        size:   { width: pageWidth, height: 16838 },
+        margin: { top: marginTB, right: marginLR, bottom: marginTB, left: marginLR }
       }
     },
-    children
+    children: [
+      new Paragraph({
+        alignment: AlignmentType.CENTER,
+        spacing:   { after: 80 },
+        children:  [new TextRun({ text: "CAREER DAY — UNI BO 2026  ·  Selezione Aziende", bold: true, size: 28, font: "Arial", color: "333333" })]
+      }),
+      new Paragraph({
+        alignment: AlignmentType.CENTER,
+        spacing:   { after: 160 },
+        border:    { bottom: { style: BorderStyle.SINGLE, size: 4, color: "AAAAAA", space: 1 } },
+        children:  [new TextRun({ text: `Totale: 175 aziende  ·  Data: ___________`, size: 18, font: "Arial", color: "888888" })]
+      }),
+      gridTable,
+    ]
   }]
 });
 
+// ── Output ────────────────────────────────────────────────────────────────────
+const outPath = 'career_day_unibo_2026_selezione2.docx';
 Packer.toBuffer(doc).then(buffer => {
-  fs.writeFileSync('/home/claude/career_day_unibo_2026_tirocini.docx', buffer);
-  console.log('Done!');
+  fs.writeFileSync(outPath, buffer);
+  console.log(`Salvato: ${outPath}`);
 }).catch(err => {
   console.error(err);
   process.exit(1);
